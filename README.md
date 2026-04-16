@@ -29,6 +29,6 @@ I’m a **MERN Stack Developer** on a journey to build impactful and scalable we
 ---
 <p align="center">
   <b>Let's build something amazing! 🚀</b> <br />
-  [LinkedIn](https://www.linkedin.com/in/vikasthakurr) • [Twitter](https://twitter.com/vikasthaakurr)
+  [LinkedIn](https://www.linkedin.com/in/rajitmaurya) • [Twitter](https://twitter.com/techbyrajit)
 </p>
 
