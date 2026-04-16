@@ -1,23 +1,41 @@
-<h1 align="center">Hi 👋, I'm Rajitram</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+# Hi there, I'm Rajitram 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajit8674&label=Profile%20views&color=0e75b6&style=flat" alt="rajit8674" /> </p>
-
-- 🌱 I’m currently learning **React.js ,JavaScript ,REST API ,MongoDB,Node.js,Express.js**
-
-- 💬 Ask me about **React.js ,JavaScript**
-
-- 📫 How to reach me **rajitmaurya8318@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajit8674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajit8674" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajit8674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajit8674" height="30" width="40" /></a>
-<a href="https://instagram.com/rajit8674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajit8674" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rajit8674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajit8674" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajit8674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajit8674" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajit8674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajit8674" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vikasthakurr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/vikasthaakurr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/vikasthaakurr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
+I’m a **MERN Stack Developer** on a journey to build impactful and scalable web applications. I focus not just on writing code, but on designing systems that actually work in real-world scenarios.
+
+
+- Currently building  **Production-level MERN applications**
+- Open to collaborate on  **Meaningful projects & startup ideas** 
+- Need help with  **System design & performance optimization**
+- Learning  **Backend architecture, security (JWT), and scalable systems** 
+- 💬 Ask me about  **JavaScript, React, Node.js, MongoDB, or anything related to MERN**
+---
+
+
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Accessibility](https://img.shields.io/badge/ARIA_Accessibility-005A9C?style=flat-square&logo=w3c&logoColor=white) |
+| **Backend & Cache** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Database & ORM** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Specialization** | ![System Design](https://img.shields.io/badge/HLD_&_LLD-FF4B4B?style=flat-square&logo=diagramsdotnet&logoColor=white) ![Monorepo](https://img.shields.io/badge/Monorepo-FFD700?style=flat-square&logo=turborepo&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Auth](https://img.shields.io/badge/Auth_&_Security-FF9900?style=flat-square&logo=auth0&logoColor=white) |
+
+---
+
+### 📚 Featured Resources
+* 🚀 **[JavaScript Interview Masterclass](https://github.com/vikasthakurr/Javascript-interview-questions)**
+* ⚛️ **[React Interview Questions](https://github.com/vikasthakurr/React-Interview-Questions)**
+* ⚙️ **[Backend CheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet)**
+
+---
+<p align="center">
+  <b>Let's build something amazing! 🚀</b> <br />
+  [LinkedIn](https://www.linkedin.com/in/vikasthakurr) • [Twitter](https://twitter.com/vikasthaakurr)
+</p>
