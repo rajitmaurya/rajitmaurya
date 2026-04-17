@@ -16,7 +16,7 @@ I’m a **MERN Stack Developer** on a journey to build impactful and scalable we
 - Learning  **Backend architecture, security (JWT), and scalable systems** 
 - 💬 Ask me about  **JavaScript, React, Node.js, MongoDB, or anything related to MERN**
 ---
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
