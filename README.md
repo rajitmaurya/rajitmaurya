@@ -27,6 +27,9 @@ I’m a **MERN Stack Developer** on a journey to build impactful and scalable we
 | **Currently Learning** | ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![System Design](https://img.shields.io/badge/System_Design-Basics-blue?style=flat-square) ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square) |
 
 ---
+![](https://streak-stats.demolab.com/?user=rajitmaurya&theme=radical&hide_border=false) &nbsp;&nbsp; ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajitmaurya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 <p align="center">
   <b>Let's build something amazing!  things</b> <br />
   [LinkedIn](https://www.linkedin.com/in/rajitmaurya) • [Twitter](https://twitter.com/techbyrajit)
