@@ -34,5 +34,3 @@ I’m a **MERN Stack Developer** on a journey to build impactful and scalable we
   <b>Let's build something amazing!  things</b> <br />
   [LinkedIn](https://www.linkedin.com/in/rajitmaurya) • [Twitter](https://twitter.com/techbyrajit)
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajitmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="ankit45264" /> </p>
